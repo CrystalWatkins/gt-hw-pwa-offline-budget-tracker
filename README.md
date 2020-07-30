@@ -23,7 +23,7 @@ This is a homework requirement for GT Full Stack Flex Program. We are using PWA 
 * Copy github repo and clone to local computer
 
 
-[Link to Github Repo](#)
+[Link to Github Repo](https://crystalwatkins.github.io/gt-hw-pwa-offline-budget-tracker/).
  
 [Link to Heroku Website](https://fierce-castle-91671.herokuapp.com/).
 
@@ -32,13 +32,11 @@ This is a homework requirement for GT Full Stack Flex Program. We are using PWA 
 
 This is a PWA app that creates a budget tracker.
 
-[Link to Github Repo](#).
+[Link to Github Repo](https://crystalwatkins.github.io/gt-hw-pwa-offline-budget-tracker/).
  
 [Link to Heroku Website](https://fierce-castle-91671.herokuapp.com/).
 
-![Photo 1](#)
-![Photo 2](#)
-![Photo 3](#)
+![Photo 1](./public/budget.png)
 
 
 ## Credits
